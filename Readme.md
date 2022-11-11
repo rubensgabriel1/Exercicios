@@ -28,11 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Exercicio feito para a pratiaca e desenvolvimentos com as seguintes tecnologias.
+Exercicio feito para desenvolvimentos de habilidades, com as seguintes tecnologias.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/65ziW1ZRQPCMPRgBzcFbZC/Calendário-de-Jogos-(Community)?node-id=301%3A1812/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
